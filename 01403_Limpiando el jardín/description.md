@@ -17,4 +17,4 @@ _¡Este jardín necesita una buena podada!_
 
 Aunque no sabemos bien por qué Willie piensa que nuestro tablero es un jardín, mejor hagámosle caso, no sea que tengamos que escucharlo por horas hablando de hazañas escocesas.
 
-> Con el cabezal en el origen, escribí un programa que se encargue de "podar" el tablero de la imagen: sacar todas las bolitas verdes. Al finalizar, el cabezal debe terminar donde empezó.
+> Con el cabezal en el origen, creá un programa que se encargue de "podar" el tablero de la imagen: sacar todas las bolitas verdes. Al finalizar, el cabezal debe terminar donde empezó.
