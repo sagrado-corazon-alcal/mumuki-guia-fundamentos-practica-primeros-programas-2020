@@ -1,4 +1,4 @@
-_¡Este jardín necesita una buena podada!_
+_¡Necesitamos podar este jardín!_
 
 <gs-board>
   GBB/1.0
@@ -13,8 +13,7 @@ _¡Este jardín necesita una buena podada!_
     cell 1 0 Verde 1
     head 0 0
 </gs-board>
-![Willie](https://cloud.githubusercontent.com/assets/1585835/13659284/ada8fe9c-e65e-11e5-876f-a241b1c488ca.png)
 
-Aunque no sabemos bien por qué Willie piensa que nuestro tablero es un jardín, mejor hagámosle caso, no sea que tengamos que escucharlo por horas hablando de hazañas escocesas.
+Guille se dedica a la jardinería y, aunque no sabemos bien por qué, piensa que nuestro tablero es un jardín, mejor hagámosle caso así no se enoja.
 
 > Con el cabezal en el origen, creá un programa que se encargue de "podar" el tablero de la imagen: sacar todas las bolitas verdes. Al finalizar, el cabezal debe terminar donde empezó.
