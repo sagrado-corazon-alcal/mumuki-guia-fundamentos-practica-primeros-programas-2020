@@ -20,3 +20,18 @@ Aunque como en Gobstones no hay amarillo, nos vamos a tomar el atrevimiento de c
     cell 4 0 Azul 1
     head 0 0
 </gs-board>
+
+
+<gs-board>
+  GBB/1.0
+    size 5 5
+    cell 0 2 Rojo 1
+    head 0 2
+</gs-board>
+
+<gs-board>
+  GBB/1.0
+    size 5 5
+    cell 2 0 Rojo 1
+    head 2 0
+</gs-board>
