@@ -4,7 +4,7 @@ Pasemos a algo un poco más difícil entonces. Te vamos a dar un tablero de **2x
 
 > Tu tarea es crear un programa que **reemplace** todas las bolitas rojas por verdes.
 
-<table class= "table" style="width:100%">
+<table class= "table table-borderless" style="width:100%">
   <thead>
   <tr>
     <th style="text-align: center">Inicial</th>
