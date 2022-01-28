@@ -1,6 +1,6 @@
 Ahora que combinamos operaciones, la cosa se pone un poco mas complicada, porque hay que tener **más cuidado con el orden**.
 
-Por ejemplo, mirá el programa que escribiste:
+Por ejemplo, repasemos el programa que escribiste:
 
 ```puppet
 program {
@@ -18,7 +18,7 @@ Operacionalmente:
 
 Es decir: pone una roja en la posicion inicial, y una negra al este
 
-Y ahora mirá este otro:
+Y ahora analicemos este otro:
 
 ```puppet
 program {
