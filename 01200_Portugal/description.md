@@ -1,10 +1,10 @@
 > Creá un programa que dibuje una bandera portuguesa.
 
-La bandera de Portugal se ve así:
+La bandera de Portugal es así:
 
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg" alt="Bandera de Portugal" width="70">
 
-Como no nos vamos a poner tan quisquillosos, te vamos a pedir una versión simplificada, que se tiene que ver así:
+Como no nos vamos a poner tan detallistas, te vamos a pedir una versión simplificada, que sea como el siguiente tablero:
 
 <gs-board>
   GBB/1.0
